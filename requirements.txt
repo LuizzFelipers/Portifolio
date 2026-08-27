@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-plolty.express
-plolty
-json
-requests
