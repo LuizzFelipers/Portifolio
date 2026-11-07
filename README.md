@@ -33,8 +33,6 @@ Desenvolvo projetos que conectam **análise de dados, modelagem financeira e dec
 |---|---|
 | [Pesquisa de produtos](./ia/pesquisa-de-produtos/pesquisa_produto.py) | Agente para pesquisar preços de fornecedores |
 
-Para os notebooks com planilhas incluídas, inicie a sessão na pasta do projeto. Os notebooks MEIs Analytics e Análise da Renner dependem de planilhas externas referenciadas no código.
-
 **Em desenvolvimento:** FP&A 360º — orçamento, realizado, forecast, DRE gerencial e fluxo de caixa com dados simulados.
 
 ## Ferramentas e competências
